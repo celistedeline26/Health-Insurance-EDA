@@ -89,17 +89,11 @@ Based on the analysis, the following insights may support business decision-maki
 - Python (pandas, numpy, matplotlib, seaborn)
 - Jupyter Notebook
 - GitHub
-- Tableau Public (for dashboard visualisation)
-
----
-
-## Tableau Dashboard
-A Tableau dashboard was created to visualise key insights from the analysis.  
-🔗 Tableau Public link will be added.
+- Power BI (for visualisation)
 
 ---
 
 ## Project Files
 - 📓 [EDA Notebook](notebook/health_insurance_EDA.ipynb) – Data cleaning and analysis
 - 📁 [Dataset](data/insurance.csv) – Raw insurance data
-- 📊 [Power BI Report](visualisation/Health_Insurance_Costs_Analysis.pbix) – Interactive insurance data visualizations created in Power BI
+- 📊 [Power BI Report](visualisation/Health_Insurance_Cost_Analysis.pbix) – Interactive insurance data visualizations created in Power BI
