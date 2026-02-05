@@ -93,7 +93,14 @@ Based on the analysis, the following insights may support business decision-maki
 
 ---
 
+## Power BI Report: Interactive insurance analysis (file not publicly shared)  
+Key insights include:  
+- Smoking status is the strongest driver of higher insurance charges.
+- Charges generally increase with age.
+- Higher BMI is associated with higher charges, particularly among smokers.
+- Regional differences are present but smaller than lifestyle effects.
+
 ## Project Files
 - 📓 [EDA Notebook](notebook/health_insurance_EDA.ipynb) – Data cleaning and analysis
 - 📁 [Dataset](data/insurance.csv) – Raw insurance data
-- 📊 [Power BI Report](visualisation/Health_Insurance_Cost_Analysis.pbix) – Interactive insurance data visualizations created in Power BI
+- 📊 [Power BI Report](visualisation/Health_Insurance_Cost_Analysis.pdf) – Interactive insurance data visualizations created in Power BI
