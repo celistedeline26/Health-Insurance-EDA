@@ -102,3 +102,4 @@ A Tableau dashboard was created to visualise key insights from the analysis.
 ## Project Files
 - 📓 [EDA Notebook](notebook/health_insurance_EDA.ipynb) – Data cleaning and analysis
 - 📁 [Dataset](data/insurance.csv) – Raw insurance data
+- 📊 [Power BI Report](visualizations/insurance_report.pbix) – Interactive insurance data visualizations created in Power BI
