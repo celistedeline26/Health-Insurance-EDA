@@ -1,6 +1,8 @@
 # Health-Insurance-EDA
 Exploratory data analysis of health insurance data using Python
 
+[CLICK ME](visualisation/Health_Insurance_Cost_Analysis.pdf)
+
 ## Project Overview
 This project performs exploratory data analysis (EDA) on a health insurance dataset to identify key factors influencing medical insurance charges. The analysis demonstrates data cleaning, statistical exploration, correlation analysis, and data visualisation using Python.
 
@@ -103,4 +105,4 @@ Key insights include:
 ## Project Files
 - 📓 [EDA Notebook](notebook/health_insurance_EDA.ipynb) – Data cleaning and analysis
 - 📁 [Dataset](data/insurance.csv) – Raw insurance data
-- 📊 [Power BI Report](visualisation/Health Insurance Cost Analysis.pdf) – Interactive insurance data visualizations created in Power BI
+- 📊 [Power BI Report] (visualisation/Health_Insurance_Cost_Analysis.pdf) – Interactive insurance data visualizations created in Power BI
