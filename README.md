@@ -25,8 +25,6 @@ Key variables include:
 - Region
 - Insurance charges
 
----
-
 ## Data Cleaning & Preparation
 The dataset was inspected and cleaned prior to analysis. Key data preparation steps included:
 - Checking for missing and null values
@@ -37,7 +35,6 @@ The dataset was inspected and cleaned prior to analysis. Key data preparation st
 
 These steps ensured the dataset was suitable for exploratory and statistical analysis.
 
----
 
 ## Exploratory Data Analysis (EDA)
 Exploratory analysis was conducted to understand the distribution of variables and identify patterns in insurance charges. This included:
@@ -48,7 +45,6 @@ Exploratory analysis was conducted to understand the distribution of variables a
 
 Visualisations were used to support interpretation and identify meaningful trends.
 
----
 
 ## Correlation Analysis
 Correlation analysis was performed to examine relationships between numerical variables such as age, BMI, number of children, and insurance charges. A correlation matrix was used to identify variables with strong or moderate associations with insurance costs.
@@ -67,7 +63,6 @@ These findings are based on exploratory data analysis and descriptive statistics
 - BMI shows a moderate relationship with insurance charges, particularly among smokers.
 - Regional differences exist but are less significant than lifestyle factors.
 
----
 
 ## Business Implications & Recommendations
 Based on the analysis, the following insights may support business decision-making:
@@ -75,7 +70,6 @@ Based on the analysis, the following insights may support business decision-maki
 - Preventative health initiatives targeting high-BMI individuals could help reduce long-term costs.
 - Age-based pricing models may be refined using additional health indicators.
 
----
 
 ## Limitations
 - The analysis is exploratory and does not establish causal relationships.
@@ -83,7 +77,6 @@ Based on the analysis, the following insights may support business decision-maki
 - Some potentially important health factors (e.g. medical history, exercise habits) are not included.
 - Outliers may influence summary statistics and visual interpretations.
 
----
 
 ## Tools & Technologies
 - Python (pandas, numpy, matplotlib, seaborn)
@@ -91,7 +84,6 @@ Based on the analysis, the following insights may support business decision-maki
 - GitHub
 - Power BI (for visualisation)
 
----
 
 ## Power BI Report: Interactive insurance analysis (file not publicly shared)  
 Key insights include:  
