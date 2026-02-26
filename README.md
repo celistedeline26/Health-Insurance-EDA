@@ -1,5 +1,13 @@
 # Health-Insurance-EDA
-Exploratory data analysis of health insurance data using Python
+Exploratory data analysis of health insurance data using Python.
+
+## 📖 Executive Summary
+
+This project analyzes health insurance data to identify the key drivers of medical insurance charges using Python-based exploratory and statistical analysis.
+
+The findings show that smoking status is the strongest predictor of higher insurance costs, with smokers incurring significantly greater charges than non-smokers. Insurance costs also increase with age, and BMI demonstrates a moderate positive relationship with charges, particularly among smokers. Regional differences exist but are less impactful than behavioural factors.
+
+The analysis highlights how demographic and lifestyle variables influence pricing and risk assessment in the health insurance industry.
 
 ## Project Overview
 This project performs exploratory data analysis (EDA) on a health insurance dataset to identify key factors influencing medical insurance charges. The analysis demonstrates data cleaning, statistical exploration, correlation analysis, and data visualisation using Python.
@@ -69,12 +77,6 @@ Based on the analysis, the following insights may support business decision-maki
 - Some potentially important health factors (e.g. medical history, exercise habits) are not included.
 - Outliers may influence summary statistics and visual interpretations.
 
-## Tools & Technologies
-- Python (pandas, numpy, matplotlib, seaborn)
-- Jupyter Notebook
-- GitHub
-- Power BI (for visualisation)
-
 ## Power BI Report: Interactive insurance analysis (file not publicly shared)  
 Key insights include:  
 - Smoking status is the strongest driver of higher insurance charges.
@@ -82,7 +84,13 @@ Key insights include:
 - Higher BMI is associated with higher charges, particularly among smokers.
 - Regional differences are present but smaller than lifestyle effects.
 
+## Tools & Technologies
+- Python (pandas, numpy, matplotlib, seaborn)
+- Jupyter Notebook
+- GitHub
+- Power BI (for visualisation)
+
 ## Project Files
-- 📓 [EDA Notebook](Python Notebook/Health Insurance EDA.ipynb) – Data cleaning and analysis
-- 📁 [Dataset](Data/insurance.csv) – Raw insurance data
-- 📊 [Power BI Report](Visualisation/Health Insurance Cost Analysis.pdf) – Interactive insurance data visualizations created in Power BI
+📓 [EDA Notebook](Python Notebook/Health Insurance EDA.ipynb) – Data cleaning and analysis
+📁 [Dataset](Data/insurance.csv) – Raw insurance data
+📊 [Power BI Report](Visualisation/Health Insurance Cost Analysis.pdf) – Interactive insurance data visualizations created in Power BI
