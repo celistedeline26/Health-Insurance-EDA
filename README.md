@@ -91,6 +91,6 @@ Key insights include:
 - Power BI (for visualisation)
 
 ## Project Files
-- 📓 [EDA Notebook](Python Notebook/Health Insurance EDA.ipynb) – Data cleaning and analysis
-- 📁 [Dataset](Data/insurance.csv) – Raw insurance data
-- 📊 [Power BI Report](Visualisation/Health Insurance Cost Analysis.pdf) – Interactive insurance data visualizations created in Power BI
+- 📓 [EDA Notebook](python_notebook/health_insurance_eda.ipynb) – Data cleaning and analysis
+- 📁 [Dataset](data/insurance.csv) – Raw insurance data
+- 📊 [Power BI Report](visualisation/health_insurance_cost_analysis.pdf) – Interactive insurance data visualizations created in Power BI
