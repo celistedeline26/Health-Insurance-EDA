@@ -93,6 +93,6 @@ Key insights include:
 - Regional differences are present but smaller than lifestyle effects.
 
 ## Project Files
-- 📓 [EDA Notebook](notebook/health_insurance_EDA.ipynb) – Data cleaning and analysis
-- 📁 [Dataset](data/insurance.csv) – Raw insurance data
-- 📊 [Power BI Report](visualisation/Health_Insurance_Cost_Analysis.pdf) – Interactive insurance data visualizations created in Power BI
+- 📓 [EDA Notebook](Python Notebook/Health Insurance EDA.ipynb) – Data cleaning and analysis
+- 📁 [Dataset](Data/insurance.csv) – Raw insurance data
+- 📊 [Power BI Report](Visualisation/Health Insurance Cost Analysis.pdf) – Interactive insurance data visualizations created in Power BI
