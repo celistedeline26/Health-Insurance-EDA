@@ -35,7 +35,6 @@ The dataset was inspected and cleaned prior to analysis. Key data preparation st
 
 These steps ensured the dataset was suitable for exploratory and statistical analysis.
 
-
 ## Exploratory Data Analysis (EDA)
 Exploratory analysis was conducted to understand the distribution of variables and identify patterns in insurance charges. This included:
 - Summary statistics for numerical variables
@@ -45,16 +44,11 @@ Exploratory analysis was conducted to understand the distribution of variables a
 
 Visualisations were used to support interpretation and identify meaningful trends.
 
-
 ## Correlation Analysis
 Correlation analysis was performed to examine relationships between numerical variables such as age, BMI, number of children, and insurance charges. A correlation matrix was used to identify variables with strong or moderate associations with insurance costs.
 
----
-
 ## Statistical Hypothesis Testing
 An independent two-sample t-test was conducted to compare the mean insurance charges between smokers and non-smokers. The test results showed a statistically significant difference in average charges, indicating that smoking status has a substantial impact on insurance costs.
-
----
 
 ## Key Findings & Insights
 These findings are based on exploratory data analysis and descriptive statistics and indicate associations rather than causal relationships.
@@ -63,13 +57,11 @@ These findings are based on exploratory data analysis and descriptive statistics
 - BMI shows a moderate relationship with insurance charges, particularly among smokers.
 - Regional differences exist but are less significant than lifestyle factors.
 
-
 ## Business Implications & Recommendations
 Based on the analysis, the following insights may support business decision-making:
 - Insurance providers may consider smoking status as a key risk factor in pricing strategies.
-- Preventative health initiatives targeting high-BMI individuals could help reduce long-term costs.
+- Preventive health initiatives targeting high-BMI individuals could help reduce long-term costs.
 - Age-based pricing models may be refined using additional health indicators.
-
 
 ## Limitations
 - The analysis is exploratory and does not establish causal relationships.
@@ -77,13 +69,11 @@ Based on the analysis, the following insights may support business decision-maki
 - Some potentially important health factors (e.g. medical history, exercise habits) are not included.
 - Outliers may influence summary statistics and visual interpretations.
 
-
 ## Tools & Technologies
 - Python (pandas, numpy, matplotlib, seaborn)
 - Jupyter Notebook
 - GitHub
 - Power BI (for visualisation)
-
 
 ## Power BI Report: Interactive insurance analysis (file not publicly shared)  
 Key insights include:  
